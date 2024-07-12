@@ -18,7 +18,7 @@
 
 - A Portfolio With the help of HTML CSS & JS
 
-- <a href="https://as2509x-oibsip.netlify.app/task-1/">LIVE DEMO </a>
+- <a href="https://as2509x-oibsip.netlify.app/task-2/">LIVE DEMO </a>
 
 ### 📝 TASK 3 :
 
