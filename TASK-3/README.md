@@ -1,32 +1,14 @@
 <h2 align="center"> Oasis Infobyte Internship</br>WEB-DEVELOPMENT-JULY24 </h2>
 
-</br>
-
-### Ⓜ️ Platform Used :
-
-- Visual Studio Code
-
-</br>
-
-### 📝 TASK 1 :
-
-- A Landing Page [ MOVIE HUT ] With the help of HTML CSS & JS
-
-- <a href="https://as2509x-oibsip.netlify.app/task-1/">LIVE DEMO </a>
-
-### 📝 TASK 2 :
-
-- A Portfolio With the help of HTML CSS & JS
-
-- <a href="https://as2509x-oibsip.netlify.app/task-2/">LIVE DEMO </a>
-
-### 📝 TASK 3 :
+### [+] TASK 3 :
 
 - A Temperature Converter With the help of HTML CSS & JS
 
 - <a href="https://as2509x-oibsip.netlify.app/task-3/">LIVE DEMO </a>
 
-</br>
+### [+] Platform :
+
+- Visual Studio Code
 
 ### [+] Find me on :
 
@@ -38,4 +20,4 @@
 
 ---
 
-<h5 align="center">© 2024-25 Aparna Singh.</h5>
+<h5 align='center'>© 2024-25 Aparna Singh.</h5>
